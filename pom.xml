@@ -52,6 +52,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
 		<!-- The problem is that java.xml.bind was deprecated and removed from the classpath
 			 Starting from Java 8/9.
 		-->
